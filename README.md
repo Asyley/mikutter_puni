@@ -1,4 +1,6 @@
-mikutter_puni
+これなにぷにか…
 =============
 
 ぷにぷにするだけのmikutterプラグインぷに
+
+mikutterプラグイン練習中ぷに

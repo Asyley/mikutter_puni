@@ -9,8 +9,10 @@ Plugin.create(:mikutter_puni) do
     role: :timeline
   ) do
 
+
     string = "ぷにぷにぷに～w\n"
     Service.primary.update(:message => string)
+
 
   end
 end
